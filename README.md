@@ -1,3 +1,1 @@
-# jmthon
-
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/JMTHON-AR/roz"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="320" height="58.45"/></a></p>
+# jmthon ع محاذاة = "اليسار"> <و أ href = "ohttps: // heroku.com/deploy؟ template = https: // github.com/rozdano/ "> <IMG SRC = "HTTPS: // IMG. io / شارة + نسبة 20 إلى ٪ 20 Heroku-purple؟ style = for-the- شارة وشعار = heroku "width =" 320 "height =" 58.45 "/> </ a> </ p>
